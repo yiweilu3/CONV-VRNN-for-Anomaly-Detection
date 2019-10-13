@@ -1,0 +1,1 @@
+Please manually download all datasets from ped1.tar.gz, ped2.tar.gz, avenue.tar.gz and shanghaitech.tar.gz and tar each tar.gz file, and move them in to Data folder.
